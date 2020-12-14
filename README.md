@@ -3,13 +3,13 @@
 ---
 ## screenshots
 ### Admin Dashboard
-![dashboard snap](https://github.com/Basitali2079/e-commerce/blob/master/static/screenshots/adminHomepage.png?raw=true)
+![dashboard snap](https://github.com/Basitali2079/e-commerce/blob/main/static/screenshots/adminHomepage.png?raw=true)
 ### Customer Homepage
-![homepage snap](https://github.com/Basitali2079/e-commerce/blob/master/static/screenshots/customerhomepage.png?raw=true)
+![homepage snap](https://github.com/Basitali2079/e-commerce/blob/main/static/screenshots/customerhomepage.png?raw=true)
 ### Cart
-![cart snap](https://github.com/Basitali2079/e-commerce/blob/master/static/screenshots/cart.png?raw=true)
+![cart snap](https://github.com/Basitali2079/e-commerce/blob/main/static/screenshots/cart.png?raw=true)
 ### Track Orders
-![orders snap](https://github.com/Basitali2079/e-commerce/blob/master/static/screenshots/orderspage.png?raw=true)
+![orders snap](https://github.com/Basitali2079/e-commerce/blob/main/static/screenshots/orderspage.png?raw=true)
 ---
 ## FUNCTIONS
 ## Customer
@@ -89,5 +89,5 @@ This project is developed for demo purpose and it's not supposed to be used in r
 - [Raxa](https://github.com/raxa217)
 
 ## Feedback
-Any suggestion and feedback is welcome. You can message me on facebook
-- [Contact on Email](Basitali4545@yahoo.com)
+Any suggestion and feedback is welcome. You can Email me
+Basitali4545@yahoo.com
