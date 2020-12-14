@@ -85,9 +85,7 @@ https://myaccount.google.com/lesssecureapps
 ## Disclaimer
 This project is developed for demo purpose and it's not supposed to be used in real application.
 
-## Contributor
-- [Raxa](https://github.com/raxa217)
 
 ## Feedback
-Any suggestion and feedback is welcome. You can Email me
+Any suggestion and feedback is welcome. You can Email me.
 Basitali4545@yahoo.com
